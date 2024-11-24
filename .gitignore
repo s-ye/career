@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!README.md
+!Songyu-Ye-resume.pdf
+!ye-cv.pdf
